@@ -18,12 +18,15 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
 <img src="excel.png" alt="Excel" width="24" height="24">
 <img src="power-bi-icon.png" alt="Power BI" width="24" height="24">
 <img src="microsoft-azure.256x158.png" alt="Azure" width="24" height="24">
-## Projects
-- [Python]
-- [MYSQL]
-- [Tableau]
-- [Excel]
-- [PowerBI]
+<h2>Table of Projects</h2>
+<ul>
+  <li><a href="#Python">Python</a></li>
+  <li><a href="#MYSQL">MYSQL</a></li>
+  <li><a href="#Tableau">Tableau</a></li>
+  <li><a href="#Excel">Excel</a></li>
+  <li><a href="#Power BI">Power BI</a></li>
+</ul>
+
 </p>
 
 
