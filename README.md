@@ -20,6 +20,10 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
 
   
 ![alt text](power-bi-icon.png)
+
+<img src="excel.png" alt="Excel" width="24" height="24">
+<img src="power-bi-icon.png" alt="Power BI" width="24" height="24">
+
 </p>
 
 
