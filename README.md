@@ -15,12 +15,6 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-
-  ![alt text](excel.png)
-
-  
-![alt text](power-bi-icon.png)
-
 <img src="excel.png" alt="Excel" width="24" height="24">
 <img src="power-bi-icon.png" alt="Power BI" width="24" height="24">
 
