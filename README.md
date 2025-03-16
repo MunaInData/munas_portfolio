@@ -22,9 +22,7 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
 <ul>
   <li><a href="#Python">Python</a></li>
   <details>
-  <summary></summary>
-  
-
+  <summary>Python</summary>
    ### GDP (nominal) per Capita <a name="GDP-Nominal"></a> 
   
   This file allowed me to explore countries IMF estimates, World Bank estimates and UN estimates. Using Python I was able to investigate important information. 
