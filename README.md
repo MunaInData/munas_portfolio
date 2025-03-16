@@ -21,6 +21,9 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
 <h2>Projects</h2>
 <ul>
   <li><a href="#Python">Python</a></li>
+  <details>
+  <summary>"Python"</summary>
+  
 
    ### GDP (nominal) per Capita <a name="GDP-Nominal"></a> 
   
