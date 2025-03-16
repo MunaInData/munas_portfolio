@@ -21,8 +21,7 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
 <h2>Projects</h2>
 <ul>
   <li><a href="#Python">Python</a></li>
-    - [GDP (nominal) per Capita](#gdp-nominal)
-  GDP (nominal) per Capita <a name="gdp-nominal"></a>
+  ### GDP (nominal) per Capita <a name="gdp-nominal"></a> 
   
   This file allowed me to explore countries IMF estimates, World Bank estimates and UN estimates. Using Python I was able to investigate important information. 
   Image 1 shows me integrating my data as you can see I was looking at the amount of countries per continents. There is slight misinformation as on google Africa has 54, 
@@ -30,6 +29,16 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
 
   Image 2 shows countries which are below the IMF estimates, I had to clean my data before this as a lot of IMF estimate were coming up as NaN which stands for not a 
   number. I replaced this with the value 0f 0 to get more precision.
+
+  ### Students <a name="Studentsin.csv"></a> 
+
+Students file contained id, name, class, marks and gender of students. Here I was able to use python syntax to obtain wanted information.  
+
+Image 3 I was able to check which students were in class four. Because I didn’t specify which columns I wanted only on display I was given all their information such as ID, mark, name and gender. 
+
+Image 4 I was able assign a new column named ‘passed’ where any student who obtained a mark over 60 will show true or under 60 will show false. 
+
+Image 5  shows how easy it is to rename a column. I was able to replace column name ‘mark’ with ‘score’ which makes it easier to read. 
   
   <li><a href="#MYSQL">MYSQL</a></li>
   <li><a href="#Tableau">Tableau</a></li>
