@@ -36,7 +36,7 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
   Asia has 48, Europe has 44, North America has 23, South America has 12, and Oceania has 14. There is increase number of countries in my data which were incorrect. 
   
 
-  <img src="Image 2.png" alt="Image 2" width="400" height="200">
+  <img src="Image 2.png" alt="Image 2" width="450" height="300">
 
   Image 2 shows countries which are below the IMF estimates, I had to clean my data before this as a lot of IMF estimate were coming up as NaN which stands for not a 
   number. I replaced this with the value 0f 0 to get more precision.
