@@ -27,6 +27,7 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
   ### GDP (nominal) per Capita <a name="gdp-nominal"></a> 
     
   This file allowed me to explore countries IMF estimates, World Bank estimates and UN estimates. Using Python I was able to investigate important information. 
+  <img src="Image 1.png" alt="Image 1" width="500" height="400">
   Image 1 shows me integrating my data as you can see I was looking at the amount of countries per continents. There is slight misinformation as on google Africa has 54, 
   Asia has 48, Europe has 44, North America has 23, South America has 12, and Oceania has 14. There is increase number of countries in my data which were incorrect. 
 
