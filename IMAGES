@@ -1,5 +1,2 @@
-mv image\ 1.png images/
-mv image\ 2.png images/
-mv Image\ 3.png images/
-mv image\ 4.png images/
-mv Image\ 5 .png images/
+git clone https://github.com/MunaInData/munas_portfolio.git
+cd munas_portfolio
