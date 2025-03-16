@@ -23,12 +23,9 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
   <li><a href="#Python">Python</a></li>
   <details>
   <summary>Python</summary>
-    
-     ### GDP (nominal) per Capita <a name="GDP-Nominal"></a> 
 
-    ### GDP (nominal) per Capita <a name="GDP-Nominal"></a> 
+  ### GDP (nominal) per Capita <a name="gdp-nominal"></a> 
     
-  
   This file allowed me to explore countries IMF estimates, World Bank estimates and UN estimates. Using Python I was able to investigate important information. 
   Image 1 shows me integrating my data as you can see I was looking at the amount of countries per continents. There is slight misinformation as on google Africa has 54, 
   Asia has 48, Europe has 44, North America has 23, South America has 12, and Oceania has 14. There is increase number of countries in my data which were incorrect. 
@@ -47,9 +44,17 @@ Image 4 I was able assign a new column named ‘passed’ where any student who 
 Image 5  shows how easy it is to rename a column. I was able to replace column name ‘mark’ with ‘score’ which makes it easier to read. 
   
   <li><a href="#MYSQL">MYSQL</a></li>
+  <details>
+  <summary>MYSQL</summary>
   <li><a href="#Tableau">Tableau</a></li>
+  <details>
+  <summary>Tableau</summary>
   <li><a href="#Excel">Excel</a></li>
+  <details>
+  <summary>Excel</summary>
   <li><a href="#Power BI">Power BI</a></li>
+  <details>
+  <summary>Power BI</summary>
 </ul>
 
 </p>
