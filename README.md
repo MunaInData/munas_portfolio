@@ -42,19 +42,24 @@ Image 3 I was able to check which students were in class four. Because I didn’
 Image 4 I was able assign a new column named ‘passed’ where any student who obtained a mark over 60 will show true or under 60 will show false. 
 
 Image 5  shows how easy it is to rename a column. I was able to replace column name ‘mark’ with ‘score’ which makes it easier to read. 
+ </details>
   
   <li><a href="#MYSQL">MYSQL</a></li>
   <details>
   <summary>MYSQL</summary>
+  </details>
   <li><a href="#Tableau">Tableau</a></li>
   <details>
   <summary>Tableau</summary>
+  </details>
   <li><a href="#Excel">Excel</a></li>
   <details>
   <summary>Excel</summary>
+  </details>
   <li><a href="#Power BI">Power BI</a></li>
   <details>
   <summary>Power BI</summary>
+  </details>
 </ul>
 
 </p>
