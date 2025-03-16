@@ -23,7 +23,11 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
   <li><a href="#Python">Python</a></li>
   <details>
   <summary>Python</summary>
-   ### GDP (nominal) per Capita <a name="GDP-Nominal"></a> 
+    
+     ### GDP (nominal) per Capita <a name="GDP-Nominal"></a> 
+
+    ### GDP (nominal) per Capita <a name="GDP-Nominal"></a> 
+    
   
   This file allowed me to explore countries IMF estimates, World Bank estimates and UN estimates. Using Python I was able to investigate important information. 
   Image 1 shows me integrating my data as you can see I was looking at the amount of countries per continents. There is slight misinformation as on google Africa has 54, 
