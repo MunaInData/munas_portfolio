@@ -22,7 +22,7 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
 <ul>
   <li><a href="#Python">Python</a></li>
   <details>
-  <summary>Python</summary>
+  <summary>Projects</summary>
 
   ### GDP (nominal) per Capita <a name="gdp-nominal"></a> 
     
@@ -61,19 +61,19 @@ Image 5  shows how easy it is to rename a column. I was able to replace column n
   
   <li><a href="#MYSQL">MYSQL</a></li>
   <details>
-  <summary>MYSQL</summary>
+  <summary>Projects</summary>
   </details>
   <li><a href="#Tableau">Tableau</a></li>
   <details>
-  <summary>Tableau</summary>
+  <summary>Projects</summary>
   </details>
   <li><a href="#Excel">Excel</a></li>
   <details>
-  <summary>Excel</summary>
+  <summary>Projects</summary>
   </details>
   <li><a href="#Power BI">Power BI</a></li>
   <details>
-  <summary>Power BI</summary>
+  <summary>Projects</summary>
   </details>
 </ul>
 
