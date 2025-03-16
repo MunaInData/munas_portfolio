@@ -54,6 +54,7 @@ Image 3 I was able to check which students were in class four. Because I didn’
 Image 4 I was able assign a new column named ‘passed’ where any student who obtained a mark over 60 will show true or under 60 will show false. 
 
  <img src="Image 5.png" alt="Image 5" width="450" height="300">
+ 
 
 Image 5  shows how easy it is to rename a column. I was able to replace column name ‘mark’ with ‘score’ which makes it easier to read. 
  </details>
