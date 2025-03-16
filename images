@@ -1,26 +1,3 @@
-import os
-import shutil
-
-# Define source and destination folders
-source_folder = os.getcwd()  # Get current working directory (where images are located)
-destination_folder = os.path.join(source_folder, "munas_portfolio", "images")
-
-# Ensure the destination folder exists
-os.makedirs(destination_folder, exist_ok=True)
-
-# List of image files to move
-image_files = ["image 1.png", "image 2.png", "image 3.png", "image 4.png", "image 5 .png"]
-
-# Move each image
-for image in image_files:
-    source_path = os.path.join(source_folder, image)
-    destination_path = os.path.join(destination_folder, image)
-    
-    # Move file if it exists
-    if os.path.exists(source_path):
-        shutil.move(source_path, destination_path)
-        print(f"Moved: {image} -> {destination_folder}")
-    else:
-        print(f"File not found: {image}")
+Image 1.png
 
 
