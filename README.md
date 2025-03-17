@@ -92,7 +92,7 @@ Question 3: Country with Largest Population: Scenario: A global economic researc
 
 Using the Health data set, I conducted an analysis to find trends and key information that could be used by government agencies for future support. This will be critical for future decisions regarding public health.  
 
-  # Process:  
+ # Process: 
 
 I used Tableau for visualisation to understand relationships quickly.
 
@@ -111,6 +111,54 @@ I wanted to explore if stomach cancer had a relationship with time as we have ch
   <li><a href="#Excel">Excel</a></li>
   <details>
   <summary>Projects</summary>
+
+  ### Bike Sales <a name="bike-sales"></a> 
+
+   ## Overview:  
+
+The bicycle sales company wants to determine the purchasing patterns of different demographic groups to identify areas where it needs to concentrate its marketing efforts. The company also wants to see if there are purchasing differences between the countries where it operates.
+
+  ## Process: 
+
+  <img src="Images/Image 12.png" alt="Image 12" width="450" height="300">
+
+  Using a Pivot table can be useful, for information in records or data that could be missed in first sight by summarising and re-presenting the data we can pick up on trends. Above shows countries as columns with 
+  sales totals for each age group and each country.
+
+ # Visualising Pivot Table Data: 
+
+Presenting the pivot table as a graphical chart will highlight features of the data and assist in analysis and decision making. 
+
+<img src="Images/Image 13.png" alt="Image 13" width="400" height="450">
+
+Above graphically shows that the youth age group is globally the poorest area of sales. Female adults are buying the most product. 
+
+ ### AIRBNB <a name="bike-sales"></a> 
+
+  ## Overview:  
+
+This dataset was interesting as it was a list of Air Bnb customers and their reviews regarding their stays. I wanted to explore if this data can show me correlations. This would be brilliant data information for Air Bnb host to understand customers better and spot behaviour patterns. 
+
+ ## Process: 
+
+  # Pivot Table and Visualisations: 
+
+Once again, I used a pivot table to  explore information.  
+
+<img src="Images/Image 14.png" alt="Image 14" width="400" height="450">
+
+I then converted this into a Pie chart as this can look at proportions the best.  
+
+<img src="Images/Image 15.png" alt="Image 15" width="500" height="450">
+
+Here I wanted to see whether the room type had an impact on the number of reviews received. As you can see customers feel the need to leave a review when they get an entire home/apartment. This may be also due to financial reasons too as they would be paying more.  
+
+Scatter plot can show relationships.
+
+<img src="Images/Image 16.png" alt="Image 16" width="500" height="450">
+
+The above scatter plot diagram was a hard read so I used a formula below to see if there was an actual relationship. As you know -1 and 1 lets you know that there is a relationship, however, anything between can mean less of a strong relationship. My correlation was 0.04 which concludes that the price does not really determine the number of nights stayed.  
+# CORREL(column 1:column 1, column 2: column 2) 
   </details>
   <li><a href="#Power BI">Power BI</a></li>
   <details>
