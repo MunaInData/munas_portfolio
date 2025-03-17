@@ -22,7 +22,7 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
 <ul>
   <li><a href="#Python">Python</a></li>
   <details>
-  <summary>Projects</summary>
+  <summary></summary>
 
   ### GDP (nominal) per Capita <a name="gdp-nominal"></a> 
     
@@ -61,7 +61,7 @@ Image 5  shows how easy it is to rename a column. I was able to replace column n
   
   <li><a href="#MYSQL">MYSQL</a></li>
   <details>
-  <summary>Projects</summary>
+  <summary></summary>
 
 ### World_db <a name="World_db"></a> 
 
@@ -83,7 +83,7 @@ Question 3: Country with Largest Population: Scenario: A global economic researc
   </details>
   <li><a href="#Tableau">Tableau</a></li>
   <details>
-  <summary>Projects</summary>
+  <summary></summary>
 
   ### WHO Health Survey <a name="who-health"></a> 
 
@@ -110,7 +110,7 @@ I wanted to explore if stomach cancer had a relationship with time as we have ch
 </details>
   <li><a href="#Excel">Excel</a></li>
   <details>
-  <summary>Projects</summary>
+  <summary></summary>
 
   ### Bike Sales <a name="bike-sales"></a> 
 
@@ -163,7 +163,7 @@ CORREL(column 1:column 1, column 2: column 2)
   </details>
   <li><a href="#Power BI">Power BI</a></li>
   <details>
-  <summary>Projects</summary>
+  <summary></summary>
 
   ### AdventureWorks <a name="adventureworks"></a>
 
