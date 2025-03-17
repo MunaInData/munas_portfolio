@@ -120,7 +120,7 @@ The bicycle sales company wants to determine the purchasing patterns of differen
 
   ## Process: 
 
-  <img src="Images/Image 12.png" alt="Image 12" width="450" height="300">
+  <img src="Images/Image 12.png" alt="Image 12" width="800" height="500">
 
   Using a Pivot table can be useful, for information in records or data that could be missed in first sight by summarising and re-presenting the data we can pick up on trends. Above shows countries as columns with 
   sales totals for each age group and each country.
@@ -158,7 +158,8 @@ Scatter plot can show relationships.
 <img src="Images/Image 16.png" alt="Image 16" width="500" height="450">
 
 The above scatter plot diagram was a hard read so I used a formula below to see if there was an actual relationship. As you know -1 and 1 lets you know that there is a relationship, however, anything between can mean less of a strong relationship. My correlation was 0.04 which concludes that the price does not really determine the number of nights stayed.  
-# CORREL(column 1:column 1, column 2: column 2) 
+Formula:
+CORREL(column 1:column 1, column 2: column 2) 
   </details>
   <li><a href="#Power BI">Power BI</a></li>
   <details>
