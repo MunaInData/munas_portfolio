@@ -164,6 +164,30 @@ CORREL(column 1:column 1, column 2: column 2)
   <li><a href="#Power BI">Power BI</a></li>
   <details>
   <summary>Projects</summary>
+
+  ### AdventureWorks <a name="adventureworks"></a>
+
+   ## Overview:  
+
+   I was provided information of profits, sales, cost, orders, targets. With information like this I was able to use create visual calculations and create dashboards.  
+
+   ## Process:
+
+   Visual Calculation
+
+   <img src="Images/Image 17.png" alt="Image 17" width="600" height="450">
+
+   Above shows a visual calculation. Here I used ‘Clustered Bar Chart’ where I was looking the total of sales and cost. From this I was able to use ‘Visual Calculation’ to calculate profit. Then I used suggested calculation which is based on Microsoft Copilot AI. I used the following:  
+ - Versus Previous compares a value to a preceding value, so we see the Profit compared to the previous value for Year.
+ - Running sum calculates the sum of values, adding the current value to the preceding values, so we see the total of current and previous years.
+ - Moving average calculates an average of a set of values in a given window by dividing the sum of the values by the size of the window. By setting the window size to 2, we are calculating the average of two consecutive values. In this example, the values are yearly profits, so we see the moving average for FY2019 is the average of the profits for FY2018 and FY2019.
+
+  Dashboards 
+
+   <img src="Images/Image 17.png" alt="Image 18" width="600" height="500">
+
+Having a dashboard is useful for many reasons such as displaying key metrics and trends in one page. This makes it easier to compare insights without switching pages. Having key slicers such as region and year makes it easier to retrieve information quicker. Here I’m able to look at category and see sales and margin within a selected year or compare regions.  
+    
   </details>
 </ul>
 
