@@ -78,7 +78,7 @@ Question 2 : Cities in Europe: Scenario: A European cultural exchange program is
 Question 3: Country with Largest Population: Scenario: A global economic research institute requires data on countries with the largest populations for a comprehensive analysis. You're tasked with identifying the country with the highest population from the database to provide valuable insights into demographic trends. 
 
 
-<img src="Images/Image 8.png" alt="Image 7" width="450" height="300">
+<img src="Images/Image 8.png" alt="Image 7" width="500" height="300">
 
   </details>
   <li><a href="#Tableau">Tableau</a></li>
