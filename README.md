@@ -175,7 +175,7 @@ CORREL(column 1:column 1, column 2: column 2)
 
    Visual Calculation
 
-   <img src="Images/Image 17.png" alt="Image 17" width="600" height="450">
+   <img src="Images/Image 18.png" alt="Image 18" width="600" height="450">
 
    Above shows a visual calculation. Here I used ‘Clustered Bar Chart’ where I was looking the total of sales and cost. From this I was able to use ‘Visual Calculation’ to calculate profit. Then I used suggested calculation which is based on Microsoft Copilot AI. I used the following:  
  - Versus Previous compares a value to a preceding value, so we see the Profit compared to the previous value for Year.
@@ -184,7 +184,7 @@ CORREL(column 1:column 1, column 2: column 2)
 
   Dashboards 
 
-   <img src="Images/Image 17.png" alt="Image 18" width="600" height="500">
+   <img src="Images/Image 19.png" alt="Image 19" width="600" height="500">
 
 Having a dashboard is useful for many reasons such as displaying key metrics and trends in one page. This makes it easier to compare insights without switching pages. Having key slicers such as region and year makes it easier to retrieve information quicker. Here I’m able to look at category and see sales and margin within a selected year or compare regions.  
     
