@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-With a background as a Finance Analyst, I have transitioned into Data Analytics to leverage my analytical skills in a more data-driven role. I have gained expertise in MySQL, Python (Google Colab), Power BI, Tableau, and Excel, enabling me to extract insights and create impactful visualisations. Currently, I am enhancing my skills through a Data Technician Bootcamp, where I am deepening my knowledge in data processing, analysis, and visualisation. Passionate about using data to drive strategic decisions, I am eager to apply my expertise in a dynamic data role.
+With a background as a Finance Analyst, I have transitioned into Data Analytics to leverage my analytical skills in a more data-driven role. I have gained expertise in MySQL, Python, Power BI, Tableau, and Excel, enabling me to extract insights and create impactful visualisations. Currently, I am enhancing my skills through a Data Technician Bootcamp, where I am deepening my knowledge in data processing, analysis, and visualisation. Passionate about using data to drive strategic decisions, I am eager to apply my expertise in a dynamic data role.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [muna\_said@hotmail.co.uk](mailto:muna_said@hotmail.co.uk)
