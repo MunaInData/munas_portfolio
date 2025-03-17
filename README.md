@@ -62,6 +62,24 @@ Image 5  shows how easy it is to rename a column. I was able to replace column n
   <li><a href="#MYSQL">MYSQL</a></li>
   <details>
   <summary>Projects</summary>
+
+### World_db <a name="World_db"></a> 
+
+I was able to use a world database to retrieve information regarding population, GDP and city names. I used SQL syntax to get my wanted outcome.  
+
+Question 1 : Cities with High GDP per Capita: Scenario: An economic consulting firm is analysing cities with high GDP per capita for investment opportunities. You're tasked with identifying cities with above-average GDP per capita from the database to assist the firm in identifying potential investment destinations. 
+
+<img src="Images/Image 6.png" alt="Image 6" width="450" height="300">
+
+Question 2 : Cities in Europe: Scenario: A European cultural exchange program is seeking to connect students with cities across the continent. You're tasked with compiling a list of cities located in Europe from the database to facilitate program planning and student engagement. 
+
+<img src="Images/Image 7.png" alt="Image 7" width="450" height="300">
+
+Question 3: Country with Largest Population: Scenario: A global economic research institute requires data on countries with the largest populations for a comprehensive analysis. You're tasked with identifying the country with the highest population from the database to provide valuable insights into demographic trends. 
+
+
+<img src="Images/Image 8.png" alt="Image 7" width="450" height="300">
+
   </details>
   <li><a href="#Tableau">Tableau</a></li>
   <details>
