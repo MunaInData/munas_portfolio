@@ -120,7 +120,7 @@ The bicycle sales company wants to determine the purchasing patterns of differen
 
   ## Process: 
 
-  <img src="Images/Image 12.png" alt="Image 12" width="800" height="500">
+  <img src="Images/Image 12.png" alt="Image 12" width="800" height="200">
 
   Using a Pivot table can be useful, for information in records or data that could be missed in first sight by summarising and re-presenting the data we can pick up on trends. Above shows countries as columns with 
   sales totals for each age group and each country.
