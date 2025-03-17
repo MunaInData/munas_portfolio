@@ -129,7 +129,7 @@ The bicycle sales company wants to determine the purchasing patterns of differen
 
 Presenting the pivot table as a graphical chart will highlight features of the data and assist in analysis and decision making. 
 
-<img src="Images/Image 13.png" alt="Image 13" width="400" height="450">
+<img src="Images/Image 13.png" alt="Image 13" width="500" height="300">
 
 Above graphically shows that the youth age group is globally the poorest area of sales. Female adults are buying the most product. 
 
@@ -141,11 +141,11 @@ This dataset was interesting as it was a list of Air Bnb customers and their rev
 
  ## Process: 
 
-  # Pivot Table and Visualisations: 
+Pivot Table and Visualisations: 
 
 Once again, I used a pivot table to  explore information.  
 
-<img src="Images/Image 14.png" alt="Image 14" width="400" height="450">
+<img src="Images/Image 14.png" alt="Image 14" width="700" height="250">
 
 I then converted this into a Pie chart as this can look at proportions the best.  
 
