@@ -29,14 +29,14 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
   This file allowed me to explore countries IMF estimates, World Bank estimates and UN estimates. Using Python I was able to investigate important information. 
 
   
-  <img src="Image 1.png" alt="Image 1" width="400" height="200">
+  <img src="Images/Image 1.png" alt="Image 1" width="400" height="200">
 
   
   Image 1 shows me integrating my data as you can see I was looking at the amount of countries per continents. There is slight misinformation as on google Africa has 54, 
   Asia has 48, Europe has 44, North America has 23, South America has 12, and Oceania has 14. There is increase number of countries in my data which were incorrect. 
   
 
-  <img src="Image 2.png" alt="Image 2" width="450" height="300">
+  <img src="Images/Image 2.png" alt="Image 2" width="450" height="300">
 
   Image 2 shows countries which are below the IMF estimates, I had to clean my data before this as a lot of IMF estimate were coming up as NaN which stands for not a 
   number. I replaced this with the value of 0 to get more precision.
@@ -45,15 +45,15 @@ With a background as a Finance Analyst, I have transitioned into Data Analytics 
 
 Students file contained id, name, class, marks and gender of students. Here I was able to use python syntax to obtain wanted information.  
 
- <img src="Image 3.png" alt="Image 3" width="450" height="300">
+ <img src="Images/Image 3.png" alt="Image 3" width="450" height="300">
 
 Image 3 I was able to check which students were in class four. Because I didn’t specify which columns I wanted only on display I was given all their information such as ID, mark, name and gender. 
 
- <img src="Image 4.png" alt="Image 4" width="450" height="300">
+ <img src="Images/Image 4.png" alt="Image 4" width="450" height="300">
 
 Image 4 I was able assign a new column named ‘passed’ where any student who obtained a mark over 60 will show true or under 60 will show false. 
 
- <img src="Image 5 .png" alt="Image 5" width="450" height="300">
+ <img src="Images/Image 5 .png" alt="Image 5" width="450" height="300">
  
 
 Image 5  shows how easy it is to rename a column. I was able to replace column name ‘mark’ with ‘score’ which makes it easier to read. 
