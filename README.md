@@ -182,7 +182,11 @@ CORREL(column 1:column 1, column 2: column 2)
  - Running sum calculates the sum of values, adding the current value to the preceding values, so we see the total of current and previous years.
  - Moving average calculates an average of a set of values in a given window by dividing the sum of the values by the size of the window. By setting the window size to 2, we are calculating the average of two consecutive values. In this example, the values are yearly profits, so we see the moving average for FY2019 is the average of the profits for FY2018 and FY2019.
 
+  
+  
   Dashboards 
+
+
 
    <img src="Images/Image 19.png" alt="Image 19" width="600" height="500">
 
