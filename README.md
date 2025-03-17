@@ -84,7 +84,28 @@ Question 3: Country with Largest Population: Scenario: A global economic researc
   <li><a href="#Tableau">Tableau</a></li>
   <details>
   <summary>Projects</summary>
-  </details>
+### WHO Health Survey <a name="who-health"></a> 
+
+#Overview:  
+
+Using the Health data set, I conducted an analysis to find trends and key information that could be used by government agencies for future support. This will be critical for future decisions regarding public health.  
+
+#Process:  
+
+I used Tableau for visualisation to understand relationships quickly.
+
+<img src="Images/Image 9.png" alt="Image 9" width="450" height="550">
+
+The above shows the relationship between genders and life expectancy. Women on average live less than men. This goes on to ask questions such as whether childbirth or menstruation could be a leading factor.
+
+<img src="Images/Image 10.png" alt="Image 10" width="450" height="550">
+
+I also had to do a quick check the population sample and gender. There I can see there is more men used then women which could determine the difference relating to genders. 
+
+<img src="Images/Image 11.png" alt="Image 11" width="450" height="550">
+
+I wanted to explore if stomach cancer had a relationship with time as we have changed the way we eat. With the new food being brought out each year (different snacks or fast food chains). As you can see above stomach cancer has been increasing and we could ask whether we should explore our diets.   
+</details>
   <li><a href="#Excel">Excel</a></li>
   <details>
   <summary>Projects</summary>
